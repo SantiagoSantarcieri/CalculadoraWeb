@@ -1,0 +1,34 @@
+
+.recuadro {
+
+    width: 400px;
+    background: #B4CFB0;
+    padding: 30px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 7px 13px 37px #000;
+
+
+
+}
+
+.nav {
+    margin: 1%;
+    width: 98%;
+    height: 100px;
+    
+
+
+
+}
+
+
+.body{
+    
+    width: 100px;
+    height: 1000px;
+    background: #124;
+    
+}
