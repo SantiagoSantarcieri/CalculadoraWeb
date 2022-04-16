@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #373232;
+}
+
+.container{
+    width: 99.9vw;
+    height: 99.9vh;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.logo{
+    margin-top: 5vh;
+}
+
+.seccion{
+    text-align: center;
+    justify-content: center;   
+    background-color: #3A7540;
+}
+
+.calculadora{
+    margin: auto;
+    height: 80vh;
+    width: 40vw;
+}
+
+.formularios{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: white;  
+    font-family: 'Kufam', sans-serif;
+}
+
+.formulario{
+    padding-top: 6vh;
+}
+
+input{
+    color: white;
+    border-radius: 10px;
+    border: 1px solid #3A7540;
+    background-color: #373232;
+    outline: none;
+    height: 4vh;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+
+}
+
+.etiqueta{
+    padding-top: 7vh;
+}
+
