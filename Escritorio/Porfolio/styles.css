@@ -1,0 +1,127 @@
+body{
+    background: #3F3D3D;
+    
+}
+
+
+
+
+
+.navbar{
+    height: 60px;
+    width: auto;
+    
+}
+.logo{
+    margin-left: 120px;
+    color: white;
+    font-size: 1.22em;
+
+}
+a{
+    margin-right: 10vw;
+    text-decoration: none;
+    color: white;
+    font-size: 0.8em;
+    
+}
+.verde{
+    color: #75FF34;
+
+
+}
+
+
+.verde_oscuro{
+    color: #67aa67;
+}
+
+
+
+
+
+
+p{
+    font-style: normal;
+    font-size: 0.9em;
+    color: #5b855b;
+}
+
+
+
+
+.grid {
+    margin-left: 120px;
+    margin-right: 120px;
+    height: 70vh;
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    font-family: 'Rubik', sans-serif;
+    
+    
+}
+  
+.item1{
+
+    color: white;
+
+
+
+
+}
+.circular--landscape {
+    display: inline-block;
+    position: relative;
+    width: 302px;
+    height: 302px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 5px solid #75FF34;
+    margin-left: 6vw;
+    margin-top: 10vh;
+}
+
+.circular--landscape img {
+    width: 300px;
+    z-index: 2;
+
+}
+
+
+
+
+
+  
+
+
+
+.presentacion{    
+    margin-top: 20vh;
+    font-size: 4em;
+}
+.skills{
+    font-size: 1.2em;
+    
+
+}
+
+
+
+
+.button{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 12vw;
+    height: 8vh;
+    border-radius: 50px;
+    color: white;
+    background-color: #5b855b;
+    border: 1px solid #242b21;
+    text-decoration: none;
+    font-weight: 100;
+    
+
+    
+}
